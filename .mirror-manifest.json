@@ -3,7 +3,7 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "eric-moss-ivory-pdf",
   "version": "1.0.1",
-  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
+  "source_commit": "dc360d012f77bd665727260ee0cd4b41e4ce966f",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
@@ -11,7 +11,7 @@
     "README.md": "a631413fd0e2f2a46f2e33bfe27119877196e4aa4a5a1458addc61bbbcaef6ae",
     "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
     "SKILL.md": "3b40bc19ef5ded257d207c2c2d94f1de1167b03065eeb647ea9299ecf043ee46",
-    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "THIRD_PARTY_NOTICES.md": "59c8224b32660edb996ddb512fbe75af6bcca5c58812e71d7b950cfad0a5149e",
     "agents/openai.yaml": "a9fb25c3ff978fa4e337b5cea1321044495968332c969f48e76d08d549405010",
     "assets/starter.typ": "688db8cbb5cafcb4e5b9d98afffea4acc62633910b9a726dbf8e88b6d4203953",
     "references/page-roles.md": "0982a2168275cfa6017657f7851f8dd2308ea37d0b1944c232813b79d4e7af68",
